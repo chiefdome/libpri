@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/libpri/!svn/ver/2079/branches/1.4/doc
+END
+cc_ptp_monitor.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/libpri/!svn/ver/1714/branches/1.4/doc/cc_ptp_monitor.fsm
+END
+cc_qsig_monitor.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/libpri/!svn/ver/1714/branches/1.4/doc/cc_qsig_monitor.fsm
+END
+cc_ptmp_monitor_flattened.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/libpri/!svn/ver/1714/branches/1.4/doc/cc_ptmp_monitor_flattened.fsm
+END
+cc_ptmp_agent.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/libpri/!svn/ver/2079/branches/1.4/doc/cc_ptmp_agent.fsm
+END
+cc_ptp_monitor_flattened.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/libpri/!svn/ver/1714/branches/1.4/doc/cc_ptp_monitor_flattened.fsm
+END
+cc_qsig_monitor_flattened.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/libpri/!svn/ver/1714/branches/1.4/doc/cc_qsig_monitor_flattened.fsm
+END
+cc_ptp_agent.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/libpri/!svn/ver/2079/branches/1.4/doc/cc_ptp_agent.fsm
+END
+cc_qsig_agent.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/libpri/!svn/ver/2079/branches/1.4/doc/cc_qsig_agent.fsm
+END
+cc_ptmp_agent_flattened.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/libpri/!svn/ver/2079/branches/1.4/doc/cc_ptmp_agent_flattened.fsm
+END
+cc_ptmp_monitor.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/libpri/!svn/ver/1714/branches/1.4/doc/cc_ptmp_monitor.fsm
+END
+cc_ptp_agent_flattened.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/libpri/!svn/ver/2079/branches/1.4/doc/cc_ptp_agent_flattened.fsm
+END
+cc_qsig_agent_flattened.fsm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/libpri/!svn/ver/2079/branches/1.4/doc/cc_qsig_agent_flattened.fsm
+END
